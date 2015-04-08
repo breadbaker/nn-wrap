@@ -1,0 +1,31 @@
+ratio 0.36795994993742176 neuron setup [10, 10, 10, 10, 10, 10, 10] epochs 1000 correct 294 wrong 505
+ratio 0.4956195244055069 neuron setup [10, 10, 10, 10, 10, 10, 10] epochs 4000 correct 396 wrong 403
+ratio 0.4956195244055069 neuron setup [10, 10, 10, 10, 10, 10, 10] epochs 4000 correct 396 wrong 403
+ratio 0.4956195244055069 neuron setup [10, 10, 10, 10, 10, 10, 10] epochs 4000 correct 396 wrong 403
+ratio 0.4956195244055069 neuron setup [40, 40] epochs 4000 correct 396 wrong 403
+ratio 0.490613266583229 neuron setup [40, 40, 40] epochs 4000 correct 392 wrong 407
+ratio 0.4956195244055069 neuron setup [6, 6, 6, 6, 6, 6] epochs 2000 correct 396 wrong 403
+ratio 0.22152690863579474 neuron setup [6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 177 wrong 622
+ratio 0.4618272841051314 neuron setup [6, 6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 369 wrong 430
+ratio 0.4355444305381727 neuron setup [6, 6, 6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 348 wrong 451
+ratio 0.44430538172715894 neuron setup [6, 6, 6, 6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 355 wrong 444
+ratio 0.4956195244055069 neuron setup [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 396 wrong 403
+ratio 0.4956195244055069 neuron setup [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6] epochs 2000 correct 396 wrong 403
+ratio 0.5657894736842105 neuron setup [5, 10, 5] epochs 2000 correct 301 wrong 231
+ratio 0.5394736842105263 neuron setup [5, 10, 5] epochs 2000 correct 287 wrong 245
+ratio 0.5206766917293233 neuron setup [5, 10, 5] epochs 2000 correct 277 wrong 255
+ratio 0.5112781954887218 neuron setup [5, 10, 5] epochs 2000 correct 272 wrong 260
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.020676691729323307 neuron setup [6, 6] epochs 3000 correct 11 wrong 521
+ratio 0.37406015037593987 neuron setup [6, 6] epochs 3000 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [6, 6, 5] epochs 3000 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [8] epochs 5000 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [8] epochs 50 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [8] epochs 50 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [8] epochs 50 correct 199 wrong 333
+ratio 0.37406015037593987 neuron setup [8] epochs 50 correct 199 wrong 333
+ratio 0.5357142857142857 neuron setup [8] epochs 50 correct 285 wrong 247
