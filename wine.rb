@@ -1,7 +1,13 @@
 require './nn.rb'
 
 class Wine < NN
-
+  def initialize
+    @neuron_setup = [8,8]
+    @epochs = 5000
+    @fann_network = true
+    @match_index = 11
+    super
+  end
 end
         # @file_path = opt[:file] || './winequality-red.csv'
         # @epochs = opt[:epochs] || 2000
@@ -13,11 +19,7 @@ end
 
 # require './Wine.rb'
 
-a = Wine.new({
-  neuron_setup: [8],
-  epochs: 50,
-  fann_network: true
-  })
+a = Wine.new
 a.run
 
 # a.get_data

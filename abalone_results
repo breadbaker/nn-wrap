@@ -34,3 +34,7 @@ ratio 0.45794392523364486 neuron setup [6] epochs 2000 correct 637 wrong 754
 ratio 0.49604601006470167 neuron setup [6] epochs 2000 correct 690 wrong 701
 ratio 0.4874191229331416 neuron setup [6] epochs 3000 correct 678 wrong 713
 ratio 0.3465132997843278 neuron setup [6, 6] epochs 3000 correct 482 wrong 909
+ratio 0.35226455787203453 neuron setup [6, 6] epochs 3000 correct 490 wrong 901
+ratio 0.4543493889288282 neuron setup [6, 6] epochs 3000 correct 632 wrong 759  2015-04-07 23:49:57 -0400
+ratio 0.36520488856937455 neuron setup [6, 6] epochs 3000 correct 508 wrong 883  2015-04-08 21:14:27 -0400
+ratio 0.4399712437095615 neuron setup [6, 6] epochs 3000 correct 612 wrong 779  2015-04-08 21:29:50 -0400

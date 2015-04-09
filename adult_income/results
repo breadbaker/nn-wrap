@@ -1,0 +1,3 @@
+ratio 0.8950055493895671 neuron setup [5, 10, 5] epochs 2000 correct 8064 wrong 946  2015-04-08 22:14:14 -0400
+ratio 0.8983333333333333 neuron setup [5, 10, 5] epochs 2000 correct 2695 wrong 305  2015-04-08 22:15:29 -0400
+ratio 0.8983333333333333 neuron setup [5, 10, 5] epochs 2000 correct 2695 wrong 305  2015-04-08 23:56:31 -0400

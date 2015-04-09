@@ -1,17 +1,14 @@
 require './nn.rb'
 
 class Abalone < NN
-  def map_outputs(outputs)
-    uniq = outputs.uniq
-
-    normalized_outputs = outputs.map do |el|
-        output = Array.new(uniq.length,0)
-        output[uniq.index(el)] = 1
-
-        output
-    end
-
-    normalized_outputs
+  def initialize
+    @file_path = './abalone.data.txt'
+    @results_path = 'abalone_results'
+    @splitter = ','
+    @match_index = 0
+    @neuron_setup = [6, 6]
+    @epochs = 3000
+    super
   end
 end
         # @file_path = opt[:file] || './winequality-red.csv'
@@ -24,14 +21,7 @@ end
 
 # require './abalone.rb'
 
-a = Abalone.new({ 
-  file: './abalone.data.txt', 
-  results_file_path: 'abalone_results',
-  splitter: ',',
-  match_index: 0,
-  neuron_setup: [6, 6],
-  epochs: 3000
-  })
+a = Abalone.new
 a.run
 
 # a.get_data
